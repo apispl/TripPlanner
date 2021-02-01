@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="task2sql" type="PLAIN_TEXT" />
       <mapping pattern="persons_data" type="PLAIN_TEXT" />
+      <mapping pattern="task2sql" type="PLAIN_TEXT" />
       <mapping pattern="kar" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
