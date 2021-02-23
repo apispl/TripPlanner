@@ -3,8 +3,11 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="slon" type="PLAIN_TEXT" />
+      <mapping pattern="DataLoader" type="PLAIN_TEXT" />
       <mapping pattern="persons_data" type="PLAIN_TEXT" />
       <mapping pattern="task2sql" type="PLAIN_TEXT" />
+      <mapping pattern="female_names" type="PLAIN_TEXT" />
+      <mapping pattern="male_names" type="PLAIN_TEXT" />
       <mapping pattern="kar" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
