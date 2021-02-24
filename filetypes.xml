@@ -7,8 +7,9 @@
       <mapping pattern="persons_data" type="PLAIN_TEXT" />
       <mapping pattern="task2sql" type="PLAIN_TEXT" />
       <mapping pattern="female_names" type="PLAIN_TEXT" />
-      <mapping pattern="male_names" type="PLAIN_TEXT" />
       <mapping pattern="kar" type="PLAIN_TEXT" />
+      <mapping pattern="male_names" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
